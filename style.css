@@ -160,4 +160,10 @@ footer{
             width:350px;
             height:350px;
         }
+
+        form{
+            widht: 15em;
+            height: 30em;
+            margin-left:10px;
+        }
 }
